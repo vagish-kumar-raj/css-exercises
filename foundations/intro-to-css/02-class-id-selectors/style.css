@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.p {
+  background-color: pink;
+  font-family:
+    "Verdana",
+    DejaVu Sans,
+    sans-serif;
+}
+
+#id2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#id4 {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+.size {
+  font-size: 24px;
+}
